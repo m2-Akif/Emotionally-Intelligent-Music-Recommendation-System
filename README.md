@@ -1,2 +1,4 @@
 # Emotionally-Intelligent-Music-Recommendation-System
 Real-time Music Recommendation based on Facial Emotion Recognition using Deep Learning ApproachReal-time Music Recommendation based on Facial Emotion Recognition using Deep Learning Approach
+
+Listening to music apps is regular routine in current digital era, as it influences human’s wellbeing, and emotional state. The traditional ways to recommend music on such apps are either based on past listening habits and manual search, which lacks the potential to recommend music that a user might want to listen which reflects their mood in real-time. The project aims develop an emotion recognition system using AlexNet that can classify between emotions real-time to recommend music based on facial emotions. The proposed model will not only recommend music that reflects user’s current emotional state but also enhance their mood by catering to their immediate emotional preferences. 
